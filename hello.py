@@ -5,3 +5,4 @@ git commit -m ""
 git push
 """
 print('hello world!')
+print('pull test')
